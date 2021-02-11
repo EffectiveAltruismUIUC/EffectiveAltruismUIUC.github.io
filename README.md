@@ -1,1 +1,2 @@
-# EffectiveAltruismUIUC.github.io
+# Effective Altruism UIUC
+Doing good better
